@@ -6,15 +6,13 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/kutlu-cagan-akin" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="25" width="25" style="vertical-align:middle; margin-right:4px;"/> LinkedIn
-  </a> 
-  |
-  <a href="mailto:caganakin41@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="25" width="25" style="vertical-align:middle; margin-right:4px;"/> Email
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  |
+  <a href="mailto:caganakin41@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
   <a href="https://www.canva.com/design/DAGlRfPHtvw/m5Kf02wzUJ9ENH-7piyAWw/view?utm_content=DAGlRfPHtvw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc522a78acb" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/resume.png" height="25" width="25" style="vertical-align:middle; margin-right:4px;"/> Resume
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
 
@@ -37,7 +35,10 @@
 
 <h3 align="center">Currently Learning 📚</h3>
 <p align="center">
-  Unity | .NET
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30" height="30" alt="Unity"/></a>
+  <b>Unity</b> |
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" height="30" alt=".NET"/></a>
+  <b>.NET</b>
 </p>
 
 ---
