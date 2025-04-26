@@ -11,7 +11,11 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/kutlu-cagan-akin" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="25" width="25" style="vertical-align:middle; margin-right:4px;"/> LinkedIn
+  </a> 
+  |
+  <a href="mailto:caganakin41@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="25" width="25" style="vertical-align:middle; margin-right:4px;"/> Email
   </a>
 </p>
 
@@ -37,8 +41,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kcagan&layout=compact&theme=dark&bg_color=000000&hide_border=true" width="330"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kcagan&theme=dark&background=000000&hide_border=true" width="735"/>
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kcagan&theme=dark&background=000000&hide_border=true" width="735"/>
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
