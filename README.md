@@ -38,8 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30" height="30" alt="Unity"/> <b>Unity</b> |
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" height="30" alt=".NET"/> <b>.NET</b> |
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30" alt="AWS"/> <b>AWS</b> |
-  <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" width="30" height="30" alt="AI"/> <b>AI</b>
+  <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" width="30" height="30" alt="AI"/> <b>Artificial Intelligence</b>
 </p>
+
 
 
 ---
