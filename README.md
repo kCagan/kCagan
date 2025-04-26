@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kutlu Çağan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate Computer Engineering student from Türkiye</h3>
 
 - 📫 How to reach me **caganakin41@gmail.com**
 
