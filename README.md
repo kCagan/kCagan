@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kutlu Çağan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
 
-<p align="center">
-📫 Reach me: <a href="mailto:caganakin41@gmail.com">caganakin41@gmail.com</a> |
-📄 <a href="https://www.canva.com/design/DAGlRfPHtvw/m5Kf02wzUJ9ENH-7piyAWw/view?utm_content=DAGlRfPHtvw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc522a78acb" target="_blank">View my Resume</a>
-</p>
-
 ---
 
 <h3 align="center">Connect with me</h3>
@@ -16,6 +11,10 @@
   |
   <a href="mailto:caganakin41@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="25" width="25" style="vertical-align:middle; margin-right:4px;"/> Email
+  </a>
+  |
+  <a href="https://www.canva.com/design/DAGlRfPHtvw/m5Kf02wzUJ9ENH-7piyAWw/view?utm_content=DAGlRfPHtvw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc522a78acb" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/resume.png" height="25" width="25" style="vertical-align:middle; margin-right:4px;"/> Resume
   </a>
 </p>
 
@@ -32,6 +31,13 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="30" height="30"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30" height="30"/></a>
+</p>
+
+---
+
+<h3 align="center">Currently Learning 📚</h3>
+<p align="center">
+  Unity | .NET
 </p>
 
 ---
