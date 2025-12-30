@@ -1,59 +1,69 @@
 <h1 align="center">Hi 👋, I'm Kutlu Çağan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
 
+<p align="center">
+  <i>Building robust backend systems and network architectures.</i>
+</p>
+
 ---
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
+<div align="center">
+
   <a href="https://linkedin.com/in/kutlu-cagan-akin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  &nbsp;
   <a href="mailto:caganakin41@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  &nbsp;
   <a href="https://www.canva.com/design/DAGlRfPHtvw/m5Kf02wzUJ9ENH-7piyAWw/view?utm_content=DAGlRfPHtvw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc522a78acb" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Badge"/>
+    <img src="https://img.shields.io/badge/Resume-232F3E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Badge"/>
+  </a>
+
+</div>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" alt="Unity"/>
+</p>
+
+---
+
+### 📚 Currently Learning
+
+<p align="center">
+  <a href="https://www.cisco.com/">
+    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  </a>
+  &nbsp;
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core"/>
+  </a>
+  &nbsp;
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  </a>
+  &nbsp;
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> &nbsp;
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> &nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a> &nbsp;
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
-</p>
-
----
-
-<h3 align="center">Currently Learning 📚</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="30" height="30" alt="Cisco"/> <b>Cisco CCNA (Networking)</b> &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" height="30" alt=".NET"/> <b>.NET Core</b> &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="30" height="30" alt="Unity"/> <b>Unity</b> &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30" alt="AWS"/> <b>AWS</b>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kcagan&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kcagan&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kcagan&theme=dark&background=0d1117&hide_border=true" width="100%"/>
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <sub>Thanks for visiting my profile! 🚀</sub>
 </p>
