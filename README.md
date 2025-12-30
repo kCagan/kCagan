@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kutlu Çağan</h1>
 <h3 align="center">Computer Engineering Student from Türkiye</h3>
 
-<p align="center">
-  <i>Building robust backend systems and network architectures.</i>
-</p>
-
 ---
 
 <div align="center">
@@ -35,7 +31,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
   <br/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" alt="Unity"/>
 </p>
