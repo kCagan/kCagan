@@ -57,9 +57,3 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <sub>Thanks for visiting my profile! 🚀</sub>
-</p>
