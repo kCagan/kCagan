@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kutlu Çağan</h1>
-<h3 align="center">Computer Engineering Student from Türkiye</h3>
+<h3 align="center">Computer Engineering Graduate from Türkiye</h3>
 
 ---
 
