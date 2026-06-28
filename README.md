@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   &nbsp;
-  <a href="https://www.canva.com/design/DAGlRfPHtvw/m5Kf02wzUJ9ENH-7piyAWw/view?utm_content=DAGlRfPHtvw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc522a78acb" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-232F3E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Badge"/>
-  </a>
+  <a href="https://github.com/kCagan/kCagan/blob/main/KUTLU_CAGAN_AKIN_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-232F3E?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume Badge"/>
+</a>
 
 </div>
 
